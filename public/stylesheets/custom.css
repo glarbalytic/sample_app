@@ -31,15 +31,10 @@ section {
   margin-top: 1em;
   font-size: 120%;
   padding: 20px;
-  /*background: #fff;*/
-}
-
-section p {
   background: #fff;
 }
 
 section h1 {
-  background: #fff;
   font-size: 200%;
 }
 
